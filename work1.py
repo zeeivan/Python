@@ -1,0 +1,5 @@
+number = int(1)
+one_word = str('helow world')
+second_number = int (input('Ведите цифру'))
+second_word = str (input('Ведите слово'))
+print(number, one_word, second_word, second_number)
