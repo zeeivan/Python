@@ -1,0 +1,3 @@
+Ivan 20000
+Nadya 18000
+Nastya 21000
